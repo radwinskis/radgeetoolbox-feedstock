@@ -25,6 +25,9 @@ requirements:
     - earthengine-api
     - numpy
     - pandas
+    - matplotlib
+    - cartopy
+    - Pillow
     - python >={{ python_min }}
 
 test:
